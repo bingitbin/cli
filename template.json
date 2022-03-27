@@ -1,0 +1,8 @@
+{
+    "u-client" : {
+        "name": "u-client",
+        "description": "客户端模版",
+        "url":"https://github.com/bingitbin/vue-webpack-standard.git"
+
+    }
+}
